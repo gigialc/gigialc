@@ -24,42 +24,7 @@
 <!-- Add or remove technologies as needed -->
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gigialc&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigialc&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-
-### MedBnB
-A specialized accommodation booking platform that helps patients and caregivers find medical-friendly accommodations near hospitals and medical facilities.
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-[Repository](https://github.com/YOUR_USERNAME/medbandb) | [Live Demo](https://medbandb.vercel.app)
-
-### [Your Project 2]
-Description of your second project.
-
-![Tech1](https://img.shields.io/badge/-Tech1-COLOR?style=flat-square&logo=tech1&logoColor=white)
-![Tech2](https://img.shields.io/badge/-Tech2-COLOR?style=flat-square&logo=tech2&logoColor=white)
-
-[Repository](https://github.com/YOUR_USERNAME/project2) | [Live Demo](https://project2.example.com)
-
-### [Your Project 3]
-Description of your third project.
-
-![Tech1](https://img.shields.io/badge/-Tech1-COLOR?style=flat-square&logo=tech1&logoColor=white)
-![Tech2](https://img.shields.io/badge/-Tech2-COLOR?style=flat-square&logo=tech2&logoColor=white)
-
-[Repository](https://github.com/YOUR_USERNAME/project3) | [Live Demo](https://project3.example.com)
-
-## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
----
-
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
