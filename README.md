@@ -1,13 +1,10 @@
 # Hi there, I'm [Your Name] 👋
 
 ## 👨‍💻 About Me
-- 🔭 I'm currently working on [e.g. MedBnB, a platform for medical-friendly accommodations]
-- 🌱 I'm currently learning [e.g. Advanced React Patterns, AWS, etc.]
-- 👯 I'm looking to collaborate on [e.g. healthcare-related projects, accessibility tools]
-- 💬 Ask me about [e.g. React, Next.js, web accessibility]
-- 📫 How to reach me: [your email or other contact info]
-- 😄 Pronouns: [e.g. He/Him, She/Her, They/Them]
-- ⚡ Fun fact: [something interesting about yourself]
+- 🔭 I'm currently working on agentic new internet infrastructure for agentic AI.
+- 🌱 I'm currently learning federated learning and other ML techniques.
+- 👯 I'm looking to collaborate on fashion or healthcare.
+- ⚡ Fun fact: I have gone skydiving 3 times in my life and I was a pro horse rider.
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,8 +20,4 @@
 
 <!-- Add or remove technologies as needed -->
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gigialc&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gigialc&layout=compact&theme=radical)
 
