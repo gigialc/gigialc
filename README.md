@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Gigi 👋
 
-## 👨‍💻 About Me
+##👩🏼‍💻 About Me
 - 🔭 I'm currently working on agentic new internet infrastructure for agentic AI.
 - 🌱 I'm currently learning federated learning and other ML techniques.
 - 👯 I'm looking to collaborate on fashion or healthcare.
