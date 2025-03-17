@@ -2,8 +2,8 @@
 - 🔭 I'm currently working on agentic new internet infrastructure for agentic AI.
 - 🌱 I'm currently learning federated learning and other ML techniques.
 - 👯 I'm looking to collaborate on fashion or healthcare.
-- I'm doing research at MIT Media Lab at the fluid interfaces group.
-- I'm part of the Sundai club!! Hosted an event on Famtech.
+- I'm doing research at MIT Media lab at the fluid interfaces group.
+- I'm part of the [Sundai club](https://www.sundai.club/) !! Hosted an event on Famtech.
 - ⚡ Fun fact: I have gone skydiving 3 times in my life and I was a pro horse rider.
 
 ## 🛠️ Technologies & Tools
@@ -17,6 +17,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 <!-- Add or remove technologies as needed -->
 
