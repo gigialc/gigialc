@@ -1,5 +1,3 @@
-# Hi there, I'm Gigi 👋
-
 ## 👩🏼‍💻 About Me
 - 🔭 I'm currently working on agentic new internet infrastructure for agentic AI.
 - 🌱 I'm currently learning federated learning and other ML techniques.
