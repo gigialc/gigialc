@@ -1,10 +1,9 @@
 ## 👩🏼‍💻 About Me
-- 🔭 I'm currently working on agentic new internet infrastructure for agentic AI.
-- 🌱 I'm currently learning federated learning and other ML techniques.
-- 👯 I'm looking to collaborate on fashion or healthcare.
+- 🌱 I'm currently building mira and algi.
+- 👯 I'm looking to collaborate on prediction markets and personal assistants. 
 - I'm doing research at MIT Media lab at the fluid interfaces group.
-- I'm part of the [Sundai club](https://www.sundai.club/) !! Hosted an event on Famtech.
-- ⚡ Fun fact: I have gone skydiving 3 times in my life and I was a pro horse rider.
+- I'm part of the [Sundai club](https://www.sundai.club/) !!
+- ⚡ Fun fact: I have gone skydiving 3 times in my life and I was a pro alpine skier.
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
