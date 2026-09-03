@@ -1,7 +1,6 @@
 ## 👩🏼‍💻 About Me
-- 🌱 I'm currently building mira and algi.
+- 🌱 I'm currently building and exploring.
 - 👯 I'm looking to collaborate on prediction markets and personal assistants. 
-- I'm doing research at MIT Media lab at the fluid interfaces group.
 - I'm part of the [Sundai club](https://www.sundai.club/) !!
 - ⚡ Fun fact: I have gone skydiving 3 times in my life and I was a pro alpine skier.
 
